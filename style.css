@@ -68,13 +68,13 @@ html{
   padding: 1rem 10rem;
   justify-content: center;
   align-items: center; 
-  height:40rem; 
+  height:30rem; 
  }
   #home::before{
   content: "";
   background:url("img3.jpg") no-repeat center center/cover;
   position:absolute; 
-  height:60%;
+  height:70%;
   width: 100%;
    top: 0rem;
   left: 0rem;
@@ -204,5 +204,6 @@ html{
     text-align: center;
 
    }
+
 
 
