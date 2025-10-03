@@ -22,7 +22,7 @@ html{
   content: "";
   background-color: rgb(0, 0, 0);
   position:absolute;   
-  height: 5rem;
+  height: 4rem;
   width: 100%;
   top: 0rem;
   left: 0rem;
@@ -74,7 +74,7 @@ html{
   content: "";
   background:url("img3.jpg") no-repeat center center/cover;
   position:absolute; 
-  height:80%;
+  height:100%;
   width: 100%;
    top: 0rem;
   left: 0rem;
@@ -204,6 +204,7 @@ html{
     text-align: center;
 
    }
+
 
 
 
