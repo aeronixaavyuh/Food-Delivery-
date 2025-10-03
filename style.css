@@ -68,7 +68,7 @@ html{
   padding: 1rem 10rem;
   justify-content: center;
   align-items: center; 
-  height:40rem; 
+  height:30rem; 
  }
   #home::before{
   content: "";
@@ -204,3 +204,4 @@ html{
     text-align: center;
 
    }
+
